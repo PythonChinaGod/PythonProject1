@@ -1,0 +1,6 @@
+import matplotlib
+import numpy
+x=numpy.arange(1,100)
+y=2*x
+matplotlib.pyplot.plot(x,y)
+matplotlib.pyplot.show()
